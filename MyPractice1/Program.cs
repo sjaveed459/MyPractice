@@ -1,53 +1,22 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 using System.Threading.Tasks;
-
+using MyPractice1;
 public class Program
 {
     public static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
-        MyMethods().Wait();
+        //AsynExample asynExample = new AsynExample();
+
+        Console.WriteLine(AsynExample.Method1());
+
+        Console.WriteLine(AsynExample.Method2());
+
+        Console.WriteLine(AsynExample.Method3());
+             
     }
 
-    public static async Task MyMethods()
-    {
-        
-        await Task.Run(() => Method1.Method11(Method2.Method22()));
-        await Task.Run(() => Method2.Method22());
-        await Task.Run(() => Method3.Method33());
-    }
-}
-public static class Method1 
-{
-    public static int a {get; set;}
-
-    public static void Method11(int a)
-    {
-    Console.WriteLine("Method1 is called");
-    Console.WriteLine(1+a);
-    Console.WriteLine("Iam had 1");
-    }
-
-
-}
-public static class Method3
-{
-    public static int Method33()
-    {
-        Console.WriteLine("Method3 is called");
-        Console.WriteLine("Iam having 3");
-        return 3;
-    }
     
-}
-public static class Method2
-{
-    public static int Method22()
-    {
-    Console.WriteLine("Method2 is called");
-    Console.WriteLine("Iam having 2");
-    return 2 ;
-    }
 
 }
