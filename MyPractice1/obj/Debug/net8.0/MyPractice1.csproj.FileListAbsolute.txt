@@ -1,0 +1,15 @@
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/bin/Debug/net8.0/MyPractice1
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/bin/Debug/net8.0/MyPractice1.deps.json
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/bin/Debug/net8.0/MyPractice1.runtimeconfig.json
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/bin/Debug/net8.0/MyPractice1.dll
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/bin/Debug/net8.0/MyPractice1.pdb
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/obj/Debug/net8.0/MyPractice1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/obj/Debug/net8.0/MyPractice1.AssemblyInfoInputs.cache
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/obj/Debug/net8.0/MyPractice1.AssemblyInfo.cs
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/obj/Debug/net8.0/MyPractice1.csproj.CoreCompileInputs.cache
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/obj/Debug/net8.0/MyPractice1.sourcelink.json
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/obj/Debug/net8.0/MyPractice1.dll
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/obj/Debug/net8.0/refint/MyPractice1.dll
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/obj/Debug/net8.0/MyPractice1.pdb
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/obj/Debug/net8.0/MyPractice1.genruntimeconfig.cache
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice1/obj/Debug/net8.0/ref/MyPractice1.dll
