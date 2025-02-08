@@ -1,0 +1,15 @@
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/obj/Debug/net8.0/MyPractice2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/obj/Debug/net8.0/MyPractice2.AssemblyInfoInputs.cache
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/obj/Debug/net8.0/MyPractice2.AssemblyInfo.cs
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/obj/Debug/net8.0/MyPractice2.csproj.CoreCompileInputs.cache
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/obj/Debug/net8.0/MyPractice2.sourcelink.json
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/bin/Debug/net8.0/MyPractice2
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/bin/Debug/net8.0/MyPractice2.deps.json
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/bin/Debug/net8.0/MyPractice2.runtimeconfig.json
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/bin/Debug/net8.0/MyPractice2.dll
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/bin/Debug/net8.0/MyPractice2.pdb
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/obj/Debug/net8.0/MyPractice2.dll
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/obj/Debug/net8.0/refint/MyPractice2.dll
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/obj/Debug/net8.0/MyPractice2.pdb
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/obj/Debug/net8.0/MyPractice2.genruntimeconfig.cache
+/Users/javeeds/Desktop/MyPractice/MyPractice/MyPractice2/obj/Debug/net8.0/ref/MyPractice2.dll
